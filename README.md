@@ -1,5 +1,6 @@
 # Efeito-da-Legalizacao-da-Maconha-na-Taxa-de-Criminalidade-ao-Longo-do-Tempo
 Que tal substituir "achismos" por opinião baseada em dados?
+
 Projeto Final do Curso Análise Estatística e Modelagem Preditiva de Séries Temporais da Data Science Academy.
 
 ### Definição do Problema
