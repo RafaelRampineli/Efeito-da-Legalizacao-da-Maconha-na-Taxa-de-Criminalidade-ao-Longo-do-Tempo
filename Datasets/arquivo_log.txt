@@ -1,5 +1,3 @@
-C:/Users/rafael.rampineli/OneDrive/FilestoStudy/Formacao_Cientista_Dados/7.PreparacaoCarreira_CientistaDados/Cap16_CursoBonus_AnaliseEstatistica_ModelagemPreditiva_Series_Temporais_Python/Scripts_Python/Aula28/dados/1592428769_arquivo_cannabisdispensaries.json: Arquivo gerado em: Wed Jun 17 21:19:29 2020
-C:/Users/rafael.rampineli/OneDrive/FilestoStudy/Formacao_Cientista_Dados/7.PreparacaoCarreira_CientistaDados/Cap16_CursoBonus_AnaliseEstatistica_ModelagemPreditiva_Series_Temporais_Python/Scripts_Python/Aula28/dados/1592428833_arquivo_cannabisdispensaries.json: Arquivo gerado em: Wed Jun 17 21:20:33 2020
 ./1592428842_arquivo_cannabisdispensaries.json: Arquivo gerado em: Wed Jun 17 21:20:42 2020
 ./1592428949_arquivo_cannabisdispensaries.json: Arquivo gerado em: Wed Jun 17 21:22:29 2020
 ./1592446721_arquivo_cannabisdispensaries.json: Arquivo gerado em: Thu Jun 18 02:18:41 2020
