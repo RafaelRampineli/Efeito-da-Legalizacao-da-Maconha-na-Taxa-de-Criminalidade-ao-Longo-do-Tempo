@@ -1,6 +1,8 @@
 # Efeito-da-Legalizacao-da-Maconha-na-Taxa-de-Criminalidade-ao-Longo-do-Tempo
 Que tal substituir "achismos" por opinião baseada em dados?
 
+Projeto Final do Curso Análise Estatística e Modelagem Preditiva de Séries Temporais da Data Science Academy.
+
 ### Definição do Problema
 
 Em 2016, os eleitores da Califórnia nos EUA aprovaram a Proposição 64, que legalizou o uso recreativo da maconha no estado. Neste link você encontra os detalhes sobre a aprovação da Proposição 64:
